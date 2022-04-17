@@ -1,0 +1,10 @@
+﻿
+			<svg width="717" height="844" viewBox="0 0 717 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<ellipse cx="471.5" cy="372" rx="471.5" ry="472" fill="url(#gradient-fill)"/>
+				<defs>
+					<linearGradient id="gradient-fill" x1="0" y1="100" x2="700" y2="100" gradientUnits="userSpaceOnUse">
+							<stop offset="0" stop-color="#ffffff" />
+							<stop offset="1" stop-color="#47caf3" />
+					</linearGradient>
+				</defs>
+			</svg>
